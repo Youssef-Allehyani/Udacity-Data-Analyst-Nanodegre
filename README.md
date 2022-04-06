@@ -8,3 +8,4 @@ this course talks about meaningful conclusions and communicates critical finding
 2. Investigate a Dataset
 3. Analyze A/B Test Results
 4. Wrangling and Analyze Data
+5. Communicate Data Findings
